@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ObjectController : MonoBehaviour
 {
-    public float rotationSpeed = 150.0f;2
+    public float rotationSpeed = 150.0f;
     public float translationSpeed = 40.0f;
 
     public bool isWalking = false;
